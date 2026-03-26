@@ -153,17 +153,6 @@ jupyter notebook
 ├── sentiment.csv
 ├── trades.csv
 ├── README.md
-```
-
----
-
-##  Evaluation Criteria Covered
-
-* ✔ Data cleaning & alignment
-* ✔ Insightful analysis
-* ✔ Clear visualizations
-* ✔ Actionable strategies
-* ✔ Reproducible workflow
 
 ---
 
