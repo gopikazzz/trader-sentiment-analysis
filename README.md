@@ -53,8 +53,8 @@ Note: Due to file size constraints, datasets are not included in this repository
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/trader-sentiment-analysis.git
-cd trader-sentiment-analysis
+[git clone https://github.com/your-username/trader-sentiment-analysis.git
+cd trader-sentiment-analysis](https://github.com/gopikazzz/trader-sentiment-analysis)
 ```
 
 ### 2. Install Dependencies
