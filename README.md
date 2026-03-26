@@ -36,8 +36,19 @@ The goal is to uncover actionable insights that can inform smarter trading strat
   * `leverage`
 
 ---
+##  Dataset Access
 
-## ⚙️ Setup Instructions
+The datasets used in this project are provided by the assignment and can be downloaded from the following links:
+
+* [Bitcoin Market Sentiment Dataset](https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing)
+* [Historical Trader Data (Hyperliquid)](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing)
+
+Please download the datasets and place them in the project directory before running the notebook.
+
+Note: Due to file size constraints, datasets are not included in this repository.
+
+
+##  Setup Instructions
 
 ### 1. Clone the Repository
 
